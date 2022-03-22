@@ -14,76 +14,76 @@ annotations:
     reference: ''
     span:
       start: 751
-      end: 2068
+      end: 2076
     note_ref: 9243413c8316488bab974e22f5675be4
   c24b9f97828645cb9ef8efeb65b16e79:
     imgnum: 1373
     reference: ''
     span:
-      start: 2070
-      end: 3464
+      start: 2078
+      end: 3472
     note_ref: 9243413c8316488bab974e22f5675be4
   74d70d80c01b4d259066504be4b5ac4f:
     imgnum: 1374
     reference: ''
     span:
-      start: 3466
-      end: 4844
+      start: 3474
+      end: 4852
     note_ref: 406fe7fb9b4a47bb921e265bdf5c9c77
   d81d78fe0e0141f6a845c06df0d6bfbe:
     imgnum: 1375
     reference: ''
     span:
-      start: 4846
-      end: 6218
+      start: 4854
+      end: 6226
     note_ref: 406fe7fb9b4a47bb921e265bdf5c9c77
   987f8e9c9a294c0d8b329060d35d6353:
     imgnum: 1376
     reference: ''
     span:
-      start: 6220
-      end: 7550
+      start: 6228
+      end: 7558
     note_ref: 406fe7fb9b4a47bb921e265bdf5c9c77
   e3fcf67b68e8491bb3a0973f00957a06:
     imgnum: 1377
     reference: ''
     span:
-      start: 7552
-      end: 8923
+      start: 7560
+      end: 8931
     note_ref: 406fe7fb9b4a47bb921e265bdf5c9c77
   cb6222a3b27b4bf0ab2b6a46bbefaa7b:
     imgnum: 1378
     reference: ''
     span:
-      start: 8925
-      end: 10269
+      start: 8933
+      end: 10277
     note_ref: 406fe7fb9b4a47bb921e265bdf5c9c77
   bd2e3b3d72b34c58b50696dd5d156811:
     imgnum: 1379
     reference: ''
     span:
-      start: 10271
-      end: 11602
+      start: 10279
+      end: 11610
     note_ref: 28e91234647449c28acb0daa7ccc3608
   9243413c8316488bab974e22f5675be4:
     imgnum: 1380
     reference: ''
     span:
-      start: 11604
-      end: 13357
+      start: 11612
+      end: 13365
     note_ref: 28e91234647449c28acb0daa7ccc3608
   406fe7fb9b4a47bb921e265bdf5c9c77:
     imgnum: 1381
     reference: ''
     span:
-      start: 13359
-      end: 15734
+      start: 13367
+      end: 15742
   28e91234647449c28acb0daa7ccc3608:
     imgnum: 1382
     reference: ''
     span:
-      start: 15736
-      end: 16452
+      start: 15744
+      end: 16460
 local_ids:
   aa971aec422e4b2d89f1dc73d6c94303: 200000
   1c444c0821a24feaa27ab1adb51f77aa: 200001
